@@ -1,0 +1,1 @@
+invoice_software.pdf###DELETE###Financial invoice for software licenses with isolated contact information.

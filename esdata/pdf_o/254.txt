@@ -1,0 +1,1 @@
+invoice.pdf###DELETE###Standard financial invoice for insurance; lacks mass PII or confidential markings.

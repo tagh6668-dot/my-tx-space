@@ -1,0 +1,1 @@
+DWAF_Product_Brochure.pdf###DELETE###Public technical brochure and hardware specification sheet for a Web Application Firewall product.

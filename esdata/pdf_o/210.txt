@@ -1,0 +1,1 @@
+Shooka_Video_Conference_Requirements.pdf###DELETE###Technical specifications and hardware requirements for a video conferencing service with no PII or confidential markings.

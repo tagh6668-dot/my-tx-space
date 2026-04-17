@@ -1,0 +1,1 @@
+electronic_transfer_receipt.pdf###DELETE###Single financial transaction receipt without bulk PII or confidentiality markings.

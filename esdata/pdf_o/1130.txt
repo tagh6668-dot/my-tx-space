@@ -1,0 +1,1 @@
+hotel_reservation.pdf###DELETE###Standard hotel reservation confirmation for two individuals; not a mass database or marked confidential.
