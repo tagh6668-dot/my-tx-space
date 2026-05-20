@@ -1,1 +1,0 @@
-document.pdf###DELETE###Public book cover with ISBN and price; no sensitive information or mass PII.

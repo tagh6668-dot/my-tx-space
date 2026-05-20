@@ -1,1 +1,0 @@
-bank_statement.pdf###DELETE###Standard bank transaction report for an organization, not a mass PII database or marked confidential.

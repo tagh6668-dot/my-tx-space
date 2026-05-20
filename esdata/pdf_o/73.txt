@@ -1,1 +1,0 @@
-VAT_Certificate.pdf###DELETE###Standard tax registration certificate for a single legal entity; contains no mass PII or confidential markings.

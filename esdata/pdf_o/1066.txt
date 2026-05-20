@@ -1,1 +1,0 @@
-empire_receipt.pdf###DELETE###Routine financial receipt for a utility payment containing only one individual's name.

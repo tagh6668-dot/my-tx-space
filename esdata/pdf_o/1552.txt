@@ -1,1 +1,0 @@
-visa_guarantee_letter.pdf###DELETE###Individual visa guarantee letter containing isolated PII of one person.

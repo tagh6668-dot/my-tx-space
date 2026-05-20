@@ -1,1 +1,0 @@
-handicraft_invoice.pdf###DELETE###Standard financial invoice for handicrafts without bulk PII or confidential markings.

@@ -1,1 +1,0 @@
-request_letter.pdf###DELETE###Daily administrative letter containing isolated contact information for a single individual.

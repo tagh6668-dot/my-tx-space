@@ -1,1 +1,0 @@
-sla_document.pdf###DELETE###Standard Service Level Agreement (SLA) contract between a telecom provider and the organization, containing no bulk PII or confidentiality markings.

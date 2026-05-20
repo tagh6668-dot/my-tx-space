@@ -1,1 +1,0 @@
-ups_brochure.pdf###DELETE###Technical specification sheet for commercial UPS hardware; no bulk PII or sensitive security markings.

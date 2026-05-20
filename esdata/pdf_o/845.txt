@@ -1,1 +1,0 @@
-invitation_letter.pdf###DELETE###Standard invitation letter for a conference addressed to a single individual.

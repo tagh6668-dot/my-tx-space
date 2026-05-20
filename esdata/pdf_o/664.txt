@@ -1,1 +1,0 @@
-MonthlyProtocol.pdf###DELETE###Technical documentation and XML schema for a financial data exchange protocol; contains no PII database or confidential markings.

@@ -1,1 +1,0 @@
-peplink_guide.pdf###DELETE###Technical manual and user guide for Peplink networking equipment.

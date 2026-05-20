@@ -1,1 +1,0 @@
-invitation_letter.pdf###DELETE###Standard administrative invitation letter with no confidential markings or bulk PII.

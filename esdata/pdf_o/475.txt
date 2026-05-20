@@ -1,1 +1,0 @@
-Proxy_Server_Proposal.pdf###DELETE###Technical proposal for network infrastructure and proxy configuration; contains no bulk PII or high-level confidentiality markings.
